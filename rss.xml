@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Christian Larrea]]></title>
         <description><![CDATA[Christian Larrea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christian-larrea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 10:17:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 10:24:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christian-larrea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Perfect balance is difficult to achieve.  Once on top, peril never ends.  Be ready to fall and get up again. ]]></title>
             <description><![CDATA[<article><h1>Perfect balance is difficult to achieve.  Once on top, peril never ends.  Be ready to fall and get up again. </h1><p>Perfect balance is difficult to achieve.  Once on top, peril never ends.  Be ready to fall and get up again.</p></article>]]></description>
-            <link>undefinedperfect-balance-is-difficult-to-achieve-once-on-top-peril/index.html</link>
+            <link>https://thegrid.ai/christian-larrea/perfect-balance-is-difficult-to-achieve-once-on-top-peril/index.html</link>
             <guid isPermaLink="false">7c1d807d-5e04-461e-be71-01075b5408cf</guid>
             <pubDate>Thu, 24 Mar 2016 10:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41b1c7ed-9fd5-468d-9da5-e4f0694ba2ce.jpg">]]></description>
+            <link>https://thegrid.ai/christian-larrea/if-you-are-happen-to-get-a-birthday-present-every-4-years-i/index.html</link>
+            <guid isPermaLink="false">45726487-96f5-48e1-94c3-6c8f761baf38</guid>
+            <pubDate>Thu, 24 Mar 2016 10:23:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
