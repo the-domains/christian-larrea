@@ -1,14 +1,14 @@
-layout_spectrum: 0.3996719
-typography_spectrum: 0.1724747
+layout_spectrum: 1
 color:
   saturation: 0.4963297
-  lightness: 0.1775794
-  brandStrength: 0.6290323
+  lightness: 0.2580645
+  brandStrength: 1
   brandColors:
-    - '#D0BCAB'
-    - '#F9E8D1'
-    - '#39281F'
-    - '#6C6D79'
-    - '#644C3A'
-  rhythmicContrast: 0.4745849
+    - '#FFFFFF'
+    - '#C79275'
+    - '#77413A'
+    - '#2F8832'
+    - '#65C65C'
+  rhythmicContrast: 0.7724015
+typography_spectrum: 0.7258065
 name: Christian Larrea
