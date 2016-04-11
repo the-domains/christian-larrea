@@ -1,14 +1,28 @@
+name: Christian Larrea
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.7258065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4963297
-  lightness: 0.2580645
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#C79275'
     - '#77413A'
     - '#2F8832'
     - '#65C65C'
+  brandStrength: 0
+  lightness: 0.2580645
+  saturation: 0.4963297
   rhythmicContrast: 0.7724015
-typography_spectrum: 0.7258065
-name: Christian Larrea
+purpose: []
